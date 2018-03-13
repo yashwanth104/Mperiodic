@@ -1,0 +1,89 @@
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\App.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\HubPage.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\ItemPage.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\SectionPage.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\Priodic.xr.xml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\Priodic.exe
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\Priodic.pdb
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\resources.pri
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\AppxManifest.xml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\bin\Debug\Priodic.build.appxrecipe
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\App.g.i.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\App.g.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\HubPage.g.i.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\HubPage.g.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\ItemPage.g.i.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\ItemPage.g.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\SectionPage.g.i.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\SectionPage.g.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\XamlTypeInfo.g.cs
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\App.xaml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\ItemPage.xaml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\SectionPage.xaml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\App.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\ItemPage.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\SectionPage.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\XamlSaveStateFile.xml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\HubPage.xaml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\HubPage.xbf
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\Priodic.exe
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\Priodic.pdb
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\priconfig.xml
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\priconfig.xml.intermediate
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\layout.resfiles
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\layout.resfiles.intermediate
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\resources.resfiles
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\resources.resfiles.intermediate
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\pri.resfiles
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\pri.resfiles.intermediate
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\qualifiers.txt
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\qualifiers.txt.intermediate
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\yashwnth\documents\visual studio 2013\Projects\Priodic\Priodic\obj\Debug\ProjectArchitectures.txt
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\App.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\HubPage.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\Priodic.xr.xml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\Priodic.exe
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\Priodic.pdb
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\resources.pri
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\AppxManifest.xml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\Priodic.build.appxrecipe
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\App.g.i.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\App.g.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\HubPage.g.i.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\HubPage.g.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\App.xaml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\HubPage.xaml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\App.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\HubPage.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\XamlSaveStateFile.xml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Priodic.exe
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Priodic.pdb
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\priconfig.xml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\priconfig.xml.intermediate
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\layout.resfiles
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\layout.resfiles.intermediate
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\resources.resfiles
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\resources.resfiles.intermediate
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\pri.resfiles
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\pri.resfiles.intermediate
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\qualifiers.txt
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\qualifiers.txt.intermediate
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\ProjectArchitectures.txt
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Act.g.i.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Act.g.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\ItemPage.g.i.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\ItemPage.g.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\ItemPage.xaml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\ItemPage.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Act.xaml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Act.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\Act.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\ItemPage.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Lan.g.i.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Lan.g.cs
+C:\Users\yashwnth\Desktop\Priodic\Priodic\bin\Debug\Lan.xbf
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Lan.xaml
+C:\Users\yashwnth\Desktop\Priodic\Priodic\obj\Debug\Lan.xbf
